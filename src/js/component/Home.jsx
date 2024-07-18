@@ -1,9 +1,9 @@
 import React from "react";
-import TodoList from "./TodoList";
+import TodoList from "./TodoList.jsx";
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="Home">
       <TodoList />
     </div>
   );
