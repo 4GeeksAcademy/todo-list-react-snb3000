@@ -36,7 +36,7 @@ const TodoList = () => {
 
   return (
     <div className="todo-list">
-      <h1>Todo List</h1>
+      <h1>Todo List Component</h1>
       <input
         type="text"
         value={newTodo}
